@@ -21,5 +21,5 @@ A fictional business for educational purposes.
 ## NYC AirBnB Data
 
 Airbnb was born in 2007 and offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
-*Cleaned raw data in listings.
-*Added pivot tables.
+* Cleaned raw data in listings.
+* Added pivot tables.
