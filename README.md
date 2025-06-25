@@ -17,3 +17,9 @@ A fictional business for educational purposes.
 A fictional business for educational purposes.
 * We funneled the Raw Data to determine how many unique customers not only added an item to their shopping cart, but how many actually purchased something.
 * We then determined how many customers we retained 1-month after their first purchase over the course of a 4-month period.
+
+## NYC AirBnB Data
+
+Airbnb was born in 2007 and offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+*Cleaned raw data in listings.
+*Added pivot tables.
