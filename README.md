@@ -11,3 +11,9 @@ Zomato is a multinational restaurant aggregator and food delivery company. The p
 A fictional business for educational purposes.
 *	We successfully pulled sales data for the superstore and identified which sub-categories generated the most sales. To support this analysis, we created a scatter plot to visualize both sales and return figures.
 *	We analyzed return data by examining the number of returns per customer and their geographical distribution. Charts were used to visualize customer returns across different locations.
+
+## Online Retail Cohort Analysis
+
+A fictional business for educational purposes.
+* We funneled the Raw Data to determine how many unique customers not only added an item to their shopping cart, but how many actually purchased something.
+* We then determined how many customers we retained 1-month after their first purchase over the course of a 4-month period.
